@@ -1,0 +1,6 @@
+Display module:
+
+PA2 SSI0CLK	8 SCLK
+PA3 SSI0Fss	5 SCS
+PA4 SSI0Rx      6 SDO
+PA5 SSI0Tx	7 SDI
